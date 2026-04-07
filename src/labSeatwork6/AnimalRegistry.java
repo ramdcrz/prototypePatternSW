@@ -1,3 +1,5 @@
+package src.labSeatwork6;
+
 public class AnimalRegistry {
     private Sheep sheepPrototype;
     private Cow cowPrototype;

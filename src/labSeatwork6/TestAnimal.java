@@ -1,3 +1,5 @@
+package src.labSeatwork6;
+
 public class TestAnimal {
     public static void main(String[] args) {
         AnimalRegistry registry = new AnimalRegistry();

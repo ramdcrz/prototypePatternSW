@@ -1,3 +1,5 @@
+package src.labSeatwork6;
+
 public class Horse implements Animal {
     private Integer legs = 4;
     private String sound = "Neigh";
