@@ -157,4 +157,4 @@ java TestAnimal
 Or use your preferred Java IDE to execute `TestAnimal.java`.
 
 ## UML Diagram
-![alt text](https://github.com/ramdcrz/prototypePatternSW/blob/main/prototypePatternSW_UML.jpg)
+![alt text](https://github.com/ramdcrz/prototypePatternSW/blob/main/prototypePatternSW_UML.png)
